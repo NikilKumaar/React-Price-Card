@@ -1,8 +1,4 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# React Price Card
+- This is the first React project on displaying the Price Card. Here, the implement of data is done in App.jsx and the function to display a card consist of details of 3 types of Pricing.
+- So, Card.jsx is used to create card and to display it in UI(User Interface).
+ - Netlify Deploy URL :- 
